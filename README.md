@@ -1,5 +1,5 @@
 # Projeto Integrador - Modelo
-*(Coloque aqui o nome do seu projeto.)*
+*(Dream Light)*
 
 Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em Desenvolvimento de Sistemas para a Internet Integrado ao Ensino Médio do IFC - Campus Araquari.
 *(Coloque aqui uma breve descrição do seu projeto.)*
@@ -9,26 +9,16 @@ Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em D
 Professor: [Marco André Mendes](github.com/marcoandre)
 
 Equipe:
-- [Aluno1](github.com/aluno1)
-- [Aluno2](github.com/aluno2)
+- [Heloisa Lopes](github.com/heloisa-lopes)
+- [Kelry Rodrigues](github.com/kelryso)
+- [Raissa Lotin](github.com/raissalotin)
 
 Links do projeto:
 (*Coloque aqui os links para a documentação do projeto e os repositórios e plubicação do backend e frontend.*)
 -   [Documentação (esse documento)](github.com/marcoandre/pi-modelo)
 -   Backend: [Repositório](github.com/marcoandre/pi-backend) e [Publicação](https://pi-backend.herokuapp.com/)
 -   Frontend: [Repositório](github.com/marcoandre/pi-frontend) e [Publicação](https://pi-frontend.herokuapp.com/)
-
-**Como usar esse modelo para o Projeto Integrador**
-
-*(Essa parte pode ser apagada depois.)*
-
-1. Faça um fork desse repositório para a sua conta do GitHub.
-2. Clone o repositório para o seu computador.
-3. Abra o arquivo README.md no seu editor de texto favorito (recomendamos o [Visual Studio Code](https://code.visualstudio.com/)).
-4. Tenha instaladas as seguintes extensões:
-   - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
-   - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
-5. Edite o arquivo README.md com as informações do seu projeto.
+  
 
 # 1. Desenvolvimento
 *(Escolha um dos modelos de sistemas para desenvolver o projeto. Apague as informações desnecessárias depois.)*
@@ -41,64 +31,29 @@ Links do projeto:
 
 **1.1.1 Ponto de Vendas (PDV)**
 
-**Gerenciamento de vendas para uma padaria**
+**Gerenciamento de vendas para uma joalheria**
 
-O nosso cliente, Sr. Genival, tem uma padaria de bairro chamada padaria Pão Genial e, devido a qualidade de seus produtos, ela está crescendo rapidamente. Recentemente, ele contratou mais funcionários para atendimento, caixa, panificação, etc.
-Assim, atualmente, ele consegue concentrar seus esforços para melhorar a gestão da padaria. Para isso, ele quer instalar um sistema de controle de vendas que permita ao caixa lançar as vendas realizadas. Como sua intenção
-é melhorar a gestão do negócio, é muito importante que ele consiga ter
-relatórios, como por exemplo, de vendas.
-
-**1.1.2 Empréstimo**
-
-**Gerenciamento de uma biblioteca**
-
-Uma ONG, chamada Sala Arco Íris, ajuda crianças de baixa renda em sua educação básica. Atualmente, recebeu uma doação de mais de 1000 livros e está montando a sua biblioteca. Eles querem emprestar os livros para as crianças e os pais das crianças. Apesar de
-terem um computador e as estantes necessárias à disposição nessa nova biblioteca, não possuem verba suficiente para um leitor de impressão digital ou para produção
-de carteirinhas para todas as crianças. Para isso, eles precisam de um sistema que gerencie todo o acervo, empréstimos, livros disponíveis, etc. mas que isso ocorra de maneira simples e sem necessidade de novos gastos. Também é importante que haja relatórios, permitindo o controle dos empréstimos e dos livros disponíveis no acervo.
-
-**1.1.3 Ordem de Serviço (O.S.)**
-
-**Manutenção de computadores**
-
-Sr. Sálvio, nosso cliente, fez um curso de manutenção de celulares e smartphones e decidiu abrir um negócio no qual ele é responsável pelos consertos e sua esposa, Marília, realiza o atendimento aos clientes. Com sua visão empreendedora, ele sentiu a necessidade de um software que auxilie sua esposa nas tarefas diárias. Para isso, ele deseja um sistema que gerencie os clientes, orçamentos, serviços e retirada dos equipamentos. Sendo um negócio pequeno, é muito importante para ele conseguir ter relatórios que o ajudem na gestão da empresa, como o status dos serviços.
+A nossa cliente, Sra. Clara, tem uma loja de colares chamada Dreamlight e, devido à exclusividade e elegância de suas peças, ela está crescendo rapidamente. Recentemente, ela contratou mais funcionários para atendimento ao cliente, marketing e design de joias. Assim, atualmente, ela consegue concentrar seus esforços para melhorar a gestão da loja. Para isso, ela quer instalar um sistema de controle de vendas que permita aos funcionários lançar as vendas realizadas. Como sua intenção é melhorar a gestão do negócio, é muito importante que ela consiga ter relatórios detalhados de vendas.
 
 # 2. Situação Problema
 
-*(Nessa parte a equipe deve descrever a situação problema que será resolvida pelo sistema. O texto abaixo descreve o que essa etapa deve conter e pode ser apagado depois.)*
+ ### Introdução
 
-![Ciclo da Venda](docs/ciclo_da_venda.webp "Ciclo da Venda")
+  A Dreamlight é uma loja especializada em colares exclusivos, dedicada a realçar a beleza e a individualidade de cada cliente. Fundada por Clara, uma experiente joalheira com uma paixão inigualável pela criação de peças únicas, a Dreamlight rapidamente se destacou no mercado devido à exclusividade e elegância de suas joias. A loja está crescendo rapidamente e recentemente expandiu sua equipe, contratando novos funcionários para as áreas de atendimento ao cliente, marketing e design de joias. A missão da Dreamlight é proporcionar uma experiência única e luxuosa, oferecendo peças que não apenas adornam, mas contam uma história e capturam a essência de cada cliente.Atualmente, a Dreamlight opera com um sistema de vendas online, onde os clientes podem visualizar e adquirir os colares através do site da empresa. O processo de venda começa com o cliente navegando pela coleção de colares, escolhendo a peça desejada e finalizando a compra online. No entanto, a falta de um sistema automatizado para registrar os pedidos e gerar relatórios detalhados de vendas cria várias ineficiências.
+ 
+  A equipe de atendimento ao cliente é responsável por auxiliar os clientes durante o processo de compra, respondendo a dúvidas e garantindo uma experiência personalizada. Sem um sistema centralizado, o registro e acompanhamento das interações com os clientes se tornam desorganizados e difíceis de gerenciar.O setor de marketing utiliza diversas ferramentas para promover os colares e atrair novos clientes. No entanto, a falta de integração entre as ferramentas de marketing e o sistema de vendas impede uma análise abrangente da eficácia das campanhas, dificultando a tomada de decisões baseadas em dados.Os designers da Dreamlight trabalham constantemente para criar novas peças exclusivas. A comunicação entre o design e o setor de vendas é crucial para garantir que as novas coleções sejam lançadas com sucesso. Sem um sistema integrado, essa comunicação pode ser ineficiente, resultando em atrasos e mal-entendidos.Clara está comprometida em melhorar a gestão da loja através de relatórios detalhados de vendas que forneçam insights sobre o desempenho dos produtos e das campanhas de marketing. A ausência de um sistema automatizado para gerar esses relatórios torna o processo trabalhoso e suscetível a erros.
+  
+  A análise da situação atual da Dreamlight revela várias áreas onde a eficiência pode ser melhorada. A falta de um sistema automatizado para registrar os pedidos, a falta de integração entre os setores e a ausência de relatórios detalhados são problemas que impedem a loja de alcançar seu pleno potencial. A implementação de um sistema de controle de vendas online poderia resolver esses problemas ao automatizar o registro de vendas, centralizar as interações com os clientes, integrar ferramentas de marketing e design, e fornecer relatórios detalhados. Com esse sistema, Clara poderia tomar decisões mais informadas e continuar a expandir a Dreamlight, mantendo o alto padrão de exclusividade e elegância que define a loja.
 
-Descrevem o que acontece atualmente na empresa em um contexto global,
-abordando o funcionamento da empresa como um todo, não apenas os “problemas” que lá ocorrem.
+#3. Descrição da proposta
 
-Sabendo disso, seu papel é **detalhar o funcionamento da empresa escolhida na
-atualidade, ou seja, antes de seu novo software**, usando como base a situação que passamos, mas aprofundando os detalhes de como as coisas acontecem.
+Para resolver os problemas identificados na Dreamlight, propomos a implementação de um sistema de controle de vendas online que será essencial para a gestão eficiente da loja. Este software foi projetado para automatizar o registro de pedidos, centralizar as informações e gerar relatórios detalhados, melhorando a eficiência e a integração entre os diferentes setores da empresa.O sistema será focado em automatizar o processo de registro de vendas, eliminando a necessidade de entrada manual de dados e reduzindo o risco de erros. Além disso, ele gerará relatórios detalhados sobre o desempenho das vendas, campanhas e gestão de estoque, permitindo uma análise mais eficaz e informada.
 
--   Pesquise sobre empresas do ramo escolhido
-    para entender como funcionam;
--   Aproveite seus conhecimentos previamente adquiridos na área da empresa que escolheu, se houver;
--   Simule uma situação real. Lembre-se que são propostas com empresas fictícias, sendo assim, você terá que tomar certas decisões sobre como a empresa funciona em relação às coisas que não estão definidas no documento base (por exemplo, no caso da padaria, dizemos que seu Genival contratou mais funcionários, mas saber quantos e o que fazem pode ser relevante para o software), então tente “visualizar” a empresa funcionando, como se você estivesse lá acompanhando o dia-a-dia;
-
-Seguindo essas dicas, você deve ser capaz de descrever o dia-a-dia da empresa selecionada. E para ajudar na organização do texto, indicamos uma abordagem em 3 etapas:
-
--   **Introdução**: comece com um parágrafo apresentando a empresa (nome, o que faz, tempo de existência, o dono, funcionários, etc);
--   **Situação-problema**: Aborde em detalhes como a empresa funciona, procurando seguir uma ordem lógica dos acontecimentos e organizando parágrafos diferentes para cada coisa diferente que for explicar (como faria em uma redação);
--   **Conclusão**: tenha um parágrafo de conclusão focando nos problemas que você notou dentro da situação problema analisada e aponte brevemente como um software poderia ajudar a resolvê-los.
-
-# 3. Descrição da proposta
-
-Após entender o problema, proponha uma solução que será útil nos aspectos de dificuldade encontrados. Assim, aqui você deverá **explicar de maneira resumida, e preferencialmente mais textual, como o software funcionará**. Pense nesse texto como uma **introdução ao seu cliente** do que você pretende fazer por ele, para que ele confirme se realmente está dentro do desejado e permita sua continuidade.
-
-**Alguns pontos importantes a se destacar são:**
-
--   **Qual o foco de ação do software** relacionado com os problemas levantados na análise da situação-problema. O que realmente o software vai fazer. Por exemplo, o foco de ação do Gmail é permitir o envio e recebimento de e-mails.
--   **Os níveis de usuário do sistema**. Somente o gestor tem acesso? E os funcionários? Talvez seja para ambos, ou para funcionários de cargos
-    diferentes, etc.
--   **O que poderá ser feito no software**.Apenas o principal, sem pensar em telas ou detalhes específicos, pois isso será feito em outro momento.
--   **Se houver mais de um nível de usuário**, ressaltar as diferenças entre eles na descrição da proposta.
-
-Tenha em mente que essa é uma etapa relativamente breve. Não é necessário um texto gigantesco, apenas dar uma noção do funcionamento do sistema. Mais adiante
-precisaremos ser bem detalhistas, todavia agora a intenção é apenas fazer algo que permita ao cliente nos dizer se estamos no caminho certo.
+O sistema terá diferentes níveis de usuário para se adequar às funções variadas dentro da loja:
+Gestores: Terão acesso completo ao sistema, podendo visualizar relatórios abrangentes, gerenciar usuários e configurar as funcionalidades do software.
+Funcionários de Atendimento: Podem registrar os pedidos e oferecer suporte ao cliente, garantindo um atendimento eficiente.
+Designers: Podem atualizar e sincronizar informações sobre novos produtos, garantindo que as coleções sejam lançadas de forma coordenada.
+Com essa solução, esperamos melhorar a eficiência e a gestão da Dreamlight, integrando todas as funções necessárias em um único sistema. Caso haja algum ajuste ou ponto adicional a ser discutido, estamos à disposição para adaptar a proposta conforme necessário.
 
 # 4. Modelagem de Dados
 
@@ -106,7 +61,7 @@ precisaremos ser bem detalhistas, todavia agora a intenção é apenas fazer alg
 
 Defina as entidades e relacionamentos que farão parte do sistema. Desenhe o diagrama de entidade-relacionamento (DER) e descreva as entidades e relacionamentos que farão parte do sistema.
 
-
+ Figma: [Telas do Projeto](https://www.figma.com/design/7oiOU23UQjXosoQUd67EkZ/Untitled?node-id=0-1)
 <!--
 # 4. Regras de negócio
 (*Nessa parte a equipe deve descrever as regras de negócio que serão implementadas no sistema. O texto abaixo descreve o que essa etapa deve conter e pode ser apagado depois.*)
