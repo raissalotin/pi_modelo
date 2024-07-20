@@ -58,7 +58,7 @@ Com essa solução, esperamos melhorar a eficiência e a gestão da Dreamlight, 
 
 # 4. Modelagem de Dados
 
-![banco](banc0.jpeg)
+![banco](docs/banc0.jpeg)
 
 <!--
 # 4. Regras de negócio
