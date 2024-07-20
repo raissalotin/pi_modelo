@@ -18,6 +18,7 @@ Links do projeto:
 -   [Documentação (esse documento)](github.com/marcoandre/pi-modelo)
 -   Backend: [Repositório](github.com/marcoandre/pi-backend) e [Publicação](https://pi-backend.herokuapp.com/)
 -   Frontend: [Repositório](github.com/marcoandre/pi-frontend) e [Publicação](https://pi-frontend.herokuapp.com/)
+-   Figma: [Telas do Projeto](https://www.figma.com/design/7oiOU23UQjXosoQUd67EkZ/Untitled?node-id=0-1)
   
 
 # 1. Desenvolvimento
@@ -61,7 +62,6 @@ Com essa solução, esperamos melhorar a eficiência e a gestão da Dreamlight, 
 
 Defina as entidades e relacionamentos que farão parte do sistema. Desenhe o diagrama de entidade-relacionamento (DER) e descreva as entidades e relacionamentos que farão parte do sistema.
 
- Figma: [Telas do Projeto](https://www.figma.com/design/7oiOU23UQjXosoQUd67EkZ/Untitled?node-id=0-1)
 <!--
 # 4. Regras de negócio
 (*Nessa parte a equipe deve descrever as regras de negócio que serão implementadas no sistema. O texto abaixo descreve o que essa etapa deve conter e pode ser apagado depois.*)
