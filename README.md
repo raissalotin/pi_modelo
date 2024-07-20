@@ -46,7 +46,7 @@ A nossa cliente, Sra. Clara, tem uma loja de colares chamada Dreamlight e, devid
   
   A análise da situação atual da Dreamlight revela várias áreas onde a eficiência pode ser melhorada. A falta de um sistema automatizado para registrar os pedidos, a falta de integração entre os setores e a ausência de relatórios detalhados são problemas que impedem a loja de alcançar seu pleno potencial. A implementação de um sistema de controle de vendas online poderia resolver esses problemas ao automatizar o registro de vendas, centralizar as interações com os clientes, integrar ferramentas de marketing e design, e fornecer relatórios detalhados. Com esse sistema, Clara poderia tomar decisões mais informadas e continuar a expandir a Dreamlight, mantendo o alto padrão de exclusividade e elegância que define a loja.
 
-#3. Descrição da proposta
+# 3. Descrição da proposta
 
 Para resolver os problemas identificados na Dreamlight, propomos a implementação de um sistema de controle de vendas online que será essencial para a gestão eficiente da loja. Este software foi projetado para automatizar o registro de pedidos, centralizar as informações e gerar relatórios detalhados, melhorando a eficiência e a integração entre os diferentes setores da empresa.O sistema será focado em automatizar o processo de registro de vendas, eliminando a necessidade de entrada manual de dados e reduzindo o risco de erros. Além disso, ele gerará relatórios detalhados sobre o desempenho das vendas, campanhas e gestão de estoque, permitindo uma análise mais eficaz e informada.
 
