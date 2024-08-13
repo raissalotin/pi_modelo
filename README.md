@@ -1,10 +1,9 @@
-# Projeto Integrador - Modelo
-*(Dream Light)*
+# Dream Light
 
-Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em Desenvolvimento de Sistemas para a Internet Integrado ao Ensino Médio do IFC - Campus Araquari.
-*(Coloque aqui uma breve descrição do seu projeto.)*
+**Descrição do Projeto**
 
-**IMPORTANTE**: [**Cadastre seu projeto nesse link**](https://docs.google.com/spreadsheets/d/165xR63Yy9C75saQX-I_RsZV-hTrdiToei5Ave0JU1uQ/edit?usp=sharing).
+O projeto visa desenvolver um sistema de controle de vendas online para a loja Dreamlight. A solução automatizará o registro de pedidos e gerará relatórios detalhados sobre vendas e campanhas. O objetivo é melhorar a eficiência operacional, facilitar a análise de dados e aprimorar a gestão, permitindo que a Dreamlight mantenha sua exclusividade e continue a expandir com sucesso.
+
 
 Professor: [Marco André Mendes](github.com/marcoandre)
 
@@ -14,21 +13,13 @@ Equipe:
 - [Raissa Lotin](github.com/raissalotin)
 
 Links do projeto:
-(*Coloque aqui os links para a documentação do projeto e os repositórios e plubicação do backend e frontend.*)
 -   [Documentação (esse documento)](github.com/marcoandre/pi-modelo)
 -   Backend: [Repositório](github.com/marcoandre/pi-backend) e [Publicação](https://pi-backend.herokuapp.com/)
 -   Frontend: [Repositório](github.com/marcoandre/pi-frontend) e [Publicação](https://pi-frontend.herokuapp.com/)
 -   Figma: [Telas do Projeto](https://www.figma.com/design/7oiOU23UQjXosoQUd67EkZ/Untitled?node-id=0-1)
   
 
-# 1. Desenvolvimento
-*(Escolha um dos modelos de sistemas para desenvolver o projeto. Apague as informações desnecessárias depois.)*
--   As equipes serão avaliadas por cada etapa da documentação e entregas realizadas.
--   Cada equipe deverá escolher um sistema para o desenvolvimento das atividades, a partir dos modelos apresentados.
-
 **1.1 Modelos de Sistemas**
-
-**Nessa parte a equipe deve escolher um dos modelos de sistemas para desenvolver o projeto. Ao escolher, escreva uma breve descrição do sistema e o motivo da escolha e pode apagar os outros modelos.**
 
 **1.1.1 Ponto de Vendas (PDV)**
 
