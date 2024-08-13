@@ -13,7 +13,7 @@ Equipe:
 - [Raissa Lotin](github.com/raissalotin)
 
 Links do projeto:
--   [Documentação (esse documento)](github.com/raissalotin/pi-modelo)
+-   [Documentação (esse documento)](https://github.com/raissalotin/pi_modelo.git)
 -   Backend: [Repositório](github.com/marcoandre/pi-backend) e [Publicação](https://pi-backend.herokuapp.com/)
 -   Frontend: [Repositório](github.com/marcoandre/pi-frontend) e [Publicação](https://pi-frontend.herokuapp.com/)
 -   Figma: [Telas do Projeto](https://www.figma.com/design/7oiOU23UQjXosoQUd67EkZ/Untitled?node-id=0-1)
