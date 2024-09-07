@@ -49,7 +49,7 @@ Com essa solução, esperamos melhorar a eficiência e a gestão da Dreamlight, 
 
 # 4. Modelagem de Dados
 
-![banco](docs/db.png)
+![banco](docs/banco.png)
 
 <!--
 # 4. Regras de negócio
